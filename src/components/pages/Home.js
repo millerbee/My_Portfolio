@@ -12,7 +12,7 @@ const Home = () => (
         <div class="col-md-6" > 
          <img src={working} alt="woman working" id="profpic"></img>
            <p>
-              Hi and welcome to my portfolio page!  My name is Brenda and I am a QA Tester.  I graduated Metro State University of Denver with a major in CIS and a minor in Business.  After graduation I worked in the Database Administration area, and a couple of years later I took courses at Villanova Univeristy for Software Testing Principles and Practice.  I have been in that field for about 13 years and enjoy not only the detective work behind it but the various tools and technologies Testers are exposed to including SoapUI, ReadyAPI, Insomnia, Postman, SQL Developer, MySQL, MS-SQL, Oracle SOA Suite, WireShark, Axiros ACS, Linux and vSphere to name a few.
+              Hi and welcome to my portfolio!  My name is Brenda and I am a QA Tester.  I have been in that field for about 13 years and enjoy not only the detective work behind it but the various tools and technologies Testers are exposed to including SoapUI, ReadyAPI, Insomnia, Postman, SQL Developer, MySQL, MS-SQL, Oracle SOA Suite, WireShark, Jenkins, Linux and vSphere to name a few.  In December of 2020 I completed the Full Stack Web Deverloper Boot Camp from the Univeristy of Denver.
            </p>
            </div>
 

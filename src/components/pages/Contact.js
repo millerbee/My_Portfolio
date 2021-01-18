@@ -7,7 +7,7 @@ const Contact = () => (
   <div className="col-md-8 main-section"> 
   
     </div>  
-    <form id="contact-form">
+    <form id="contact-form" action="mailto:millerbgos@gmail.com" method="post" enctype="text/plain">
     <div className="form-group">
         <label htmlFor="name">Name</label>
         <input type="text" className="form-control" />
