@@ -20,7 +20,7 @@ const Home = () => (
        <div className= "col-md-8">
         <a href="https://www.linkedin.com/in/brenda-miller-b8414463/"><img src = {linkedin} alt="linkedin" className ="hubs" ></img></a>
         <a href="https://github.com/millerbee/"><img src = {github} alt ="github"  className ="hubs"></img></a>
-        <a href="assets/Brenda_Miller_Oct2020.pdf"><img src = {resume} alt= "resume" className ="hubs" ></img></a>
+        <a href="assets/BrendaMiller.pdf"><img src = {resume} alt= "resume" className ="hubs" ></img></a>
         <a href="mailto:millerbgos@gmail.com"><img src = {email} alt="email" className ="hubs"></img></a>
        </div>
          </div>  
